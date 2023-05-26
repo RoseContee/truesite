@@ -1,0 +1,29 @@
+https://myh.godaddy.com/?prog_id=GoDaddy&pl_id=1#/hosting/cpanel/account/1a9ada0c-72c0-11ec-8257-3417ebe725c2
+username - pksolarchj@gmail.com
+password - P@cific1929
+
+
+DB: truesite
+User: truesite
+Pass: uzeGC3jvr9&C
+
+
+https://truesites.co.in/
+
+
+client id: 90280042510-9utm64mgjb5bdvtfqp2ikd57ohntrd8o.apps.googleusercontent.com
+client secret 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
+
+
+chrome plugin in which a user can log in and report fraud complaint against a website.
+And when other person open that website.
+It shows the list of complaint automatically.
+Same like truecaller in which when people gets a call it shows number of people which have reported it as fake.
+
+1. Chrome plugin with Signin option ( google signing is must)
+2. Chrome plugin should be able to read and show the website address as popup when a user opens any website. Should also contain contain dismiss button to close the popup.
+3. Popup should have “Report a fraud” button and implement form to submit the report along with screenshot too. ( Let me know the database and server you will be using)
+4. Popup should show number of frauds reported for that website and the list of the complaint registered below the report a fraud button.
+
+
+https://truesites.co.in/admin/auth/google/callback/
