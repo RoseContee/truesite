@@ -1,19 +1,4 @@
-https://myh.godaddy.com/?prog_id=GoDaddy&pl_id=1#/hosting/cpanel/account/1a9ada0c-72c0-11ec-8257-3417ebe725c2
-username - pksolarchj@gmail.com
-password - P@cific1929
-
-
-DB: truesite
-User: truesite
-Pass: uzeGC3jvr9&C
-
-
 https://truesites.co.in/
-
-
-client id: 90280042510-9utm64mgjb5bdvtfqp2ikd57ohntrd8o.apps.googleusercontent.com
-client secret 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
-
 
 chrome plugin in which a user can log in and report fraud complaint against a website.
 And when other person open that website.
